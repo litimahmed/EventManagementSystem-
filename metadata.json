@@ -1,0 +1,6 @@
+{
+  "name": "Event Manager",
+  "description": "An elegant, full-stack event management application featuring real-time attendee tracking, interactive timelines, and automated AI-powered scheduling optimized for rooms, speakers, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
